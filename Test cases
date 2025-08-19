@@ -1,0 +1,9 @@
+# Manual Testing Test Cases
+
+This repository contains manually written test cases for different modules and scenarios.
+
+## 📂 Repository Structure
+- **TestCases.xlsx** → Contains detailed test cases with steps, expected results, and actual results.
+- **BugReport.xlsx** → List of defects found during manual testing.
+- **TestPlan.docx** → Testing strategy, scope, and approach.
+- **Screenshots/** → Proof of execution for failed/passed test cases.
